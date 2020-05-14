@@ -13,3 +13,10 @@ In this repo I'm learning Deno ( reverse the no,de.js) and I want to build a RES
 ### Setup:
 
  - [https://deno.land/](https://deno.land/)
+ 
+ Check your installation is successful or not.
+ 
+ - ` deno -h`
+ ### Run 
+
+ - `deno run --allow-net main.ts`
